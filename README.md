@@ -1,2 +1,2 @@
 # pulsarr
-Custom image of prowlarr based on lakker/pulsarr
+Custom image of pulsarr based on lakker/pulsarr
